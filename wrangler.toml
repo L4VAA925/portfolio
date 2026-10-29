@@ -1,0 +1,6 @@
+name = "edin-portfolio"
+compatibility_date = "2025-10-29"
+
+# Static assets — serves index.html, style.css, script.js
+[assets]
+directory = "./"
